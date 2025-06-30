@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 model = pickle.load(open('model2.pkl','rb'))
-sc = pickle.load(open('StandScaler2.pkl','rb'))
+sc = pickle.load(open('standscaler2.pkl','rb'))
 mx = pickle.load(open('minmaxScaler2.pkl','rb'))
 
 
