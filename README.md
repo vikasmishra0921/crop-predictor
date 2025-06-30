@@ -6,7 +6,7 @@ It predicts the most suitable crop to cultivate based on soil nutrients (N, P, K
 
 The goal is to help farmers or agricultural planners make data-driven crop decisions — increasing productivity and sustainability.
 
-🔗 Live App: https://crop-predictor-ro1c.onrender.com/predict
+🔗 Live App: https://crop-predictor-ro1c.onrender.com
 
 💡 How It Works
 The user enters basic soil & weather parameters into a simple form.
